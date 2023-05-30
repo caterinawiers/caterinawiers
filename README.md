@@ -1,24 +1,23 @@
-## Helloooo, devs!
+## Helloooo, devs! <3
 
 <div>
   
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=caterinawiers&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=caterinawiers&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caterinawiers&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 <br>
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="image_processing20210407-17397-16510dn.gif">
+    <img align="right" height="250" alt="coding-time" src="image_processing20210407-17397-16510dn.gif">
     <h1 align="center">Melhores Tecnologias <3</h1>
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
-   </div>
+       </div>
     
   
   <h1 align="center">Redes Sociais</h1>
@@ -36,4 +35,4 @@
     </a>
 </div>
   
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/caterinawiers/caterinawiers/blob/output/github-contribution-grid-snake.svg)
