@@ -1,9 +1,9 @@
-## Helloooo, devs! <3
+## ✨Helloooo, devs!✨👩‍💻🧠📚 
 
 <div>
-  
+  <a href = "https://github.com/caterinawiers/"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caterinawiers&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caterinawiers&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caterinawiers&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 <br>
 
@@ -17,8 +17,10 @@
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-       </div>
+    <img align="center" height="30" width="40" alt="python-icon"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  </div>
     
+   
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: caterinawps@gmail.com">
@@ -27,7 +29,7 @@
     <a href = "https://www.linkedin.com/caterinawiers/">
       <img width="25" src="linkedin.svg">
     </a>
-      <a href = "instagram.com/dev.caterina">
+      <a href = "instagram.com/dev.caterina/">
       <img width="25" src="instagram.png">
     </a>
 </div>
