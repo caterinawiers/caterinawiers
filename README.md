@@ -1,4 +1,4 @@
-## ✨Helloooo, devs!✨👩‍💻🧠📚 
+## ✨Hellooo, devs!✨👩‍💻🧠📚 
 
 <div>
   <a href = "https://github.com/caterinawiers/"></a>
