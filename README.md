@@ -26,10 +26,10 @@
     <a href = "mailto: caterinawps@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
-    <a href = "https://www.linkedin.com/caterinawiers/">
+    <a href = "https://www.linkedin.com/in/caterinawiers/">
       <img width="25" src="linkedin.svg">
     </a>
-      <a href = "instagram.com/dev.caterina/">
+      <a href = "https://www.instagram.com/dev.caterina/">
       <img width="25" src="instagram.png">
     </a>
 </div>
