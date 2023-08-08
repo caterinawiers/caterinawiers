@@ -1,12 +1,4 @@
 ## ✨Helloo, devs!✨👩‍💻🧠📚 
-
-<div>
-  <a href = "https://github.com/caterinawiers/"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caterinawiers&show_icons=true&theme=transparent"/>  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caterinawiers&layout=compact&theme=tokyonight"/>
-</div>
-<br>
-
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="right" height="250" alt="coding-time" src="image_processing20210407-17397-16510dn.gif">
